@@ -1,0 +1,36 @@
+.header {
+    background-color: #000000;
+}
+
+.nome {
+    display: flex;
+}
+
+.nome h1{
+    color: #FFF;
+    font-family: 'Edu SA Beginner', cursive, serif;
+    font-size: 2rem;
+}
+
+
+.subtitle h2{
+    color: #FFF;
+    font-family: 'Edu SA Beginner', cursive, serif;
+    font-size: 1.5rem;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-img {
+    padding: 3em;
+}
+
+.subtitle {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 4em;
+}
